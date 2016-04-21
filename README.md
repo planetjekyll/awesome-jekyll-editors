@@ -15,6 +15,16 @@ A collection of awesome Jekyll editors
 
 
 
+## "Visual" Editors n Tools
+
+- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) - a content editor for GitHub designed for managing (web)sites
+
+- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+
+- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+
+- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie - a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+
 
 
 
@@ -31,13 +41,13 @@ A collection of awesome Jekyll editors
 
 ### Vim
 
-- [vim-jekyll](https://github.com/parkr/vim-jekyll) -- a vim plugin to generate new posts and run `jekyll build` all without leaving vim.
+- [**vim-jekyll**](https://github.com/parkr/vim-jekyll) -- a vim plugin to generate new posts and run `jekyll build` all without leaving vim.
 
 
 
 ## Markdown Editors
 
-See [Awesome Mardown Editors](https://github.com/writekit/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+See [**Awesome Mardown Editors**](https://github.com/writekit/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
 ## Meta
