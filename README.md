@@ -17,14 +17,27 @@ A collection of awesome Jekyll editors
 
 ## "Visual" Editors n Tools
 
-- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) - a content editor for GitHub designed for managing (web)sites
+### Open Source
 
-- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
 
-- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
 
-- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie - a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
 
+- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+
+- **Netlify CMS** (github: [netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
+
+
+### Commerical / For Pay
+
+- **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) - pricing plans per user/month (basic $25/agency $75/enterprise	$125)
+
+
+_Upcoming / Future_
+
+- **Forestry.io** (web: [forestry.io](https://forestry.io))
 
 
 
