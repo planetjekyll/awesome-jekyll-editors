@@ -27,7 +27,7 @@ A collection of awesome Jekyll editors
 
 - **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
-- **Netlify CMS** (github: [netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
+- **Netlify CMS** (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
 
 ### Commerical / For Pay
