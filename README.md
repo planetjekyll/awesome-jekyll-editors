@@ -32,9 +32,9 @@ A collection of awesome Jekyll editors
 
 ### Commerical / For Pay
 
-- **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - pricing plans per user/month (basic $25/agency $75/enterprise	$125)
+- **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - a static site content management system (CMS); pricing plans per user/month (basic $25/agency $75/enterprise	$125)
 
-- **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system / admin using the GitHub API
+- **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
 
 _Upcoming / Future_
 
