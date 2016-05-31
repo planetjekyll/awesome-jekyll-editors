@@ -42,6 +42,7 @@ _Upcoming / Future_
 
 - **Forestry.io** (web: [forestry.io](https://forestry.io))
 
+- **Siteleaf** (web: [v2.siteleaf.com](http://v2.siteleaf.com))
 
 
 ## "Classic" Editors Addons
