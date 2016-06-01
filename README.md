@@ -1,6 +1,6 @@
 Awesome Series @ Planet Jekyll
 
-[Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll](https://github.com/planetjekyll/awesome-jekyll) •
 [Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
@@ -27,12 +27,14 @@ A collection of awesome Jekyll editors
 
 - **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
-- **Content Editor** (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub 
+- **Content Editor** (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
 
 - **Netlify CMS** (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
 
 ### Commerical / For Pay
+
+- **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al  - a static site host with a customizable content management system (CMS), user management, Stripe payments, and an admin GUI. 
 
 - **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - a static site content management system (CMS); pricing plans per user/month (basic $25/agency $75/enterprise	$125)
 
