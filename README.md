@@ -19,19 +19,19 @@ A collection of awesome Jekyll editors
 
 ### Open Source
 
-- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
+- **Prose** ★3 249 (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
 
-- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+- **Meet Hyde** ★48 (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
 
-- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+- **Utterson** ★141 (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
 
-- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+- **Little Jekyll** ★12 (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
-- **Content Editor** (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
+- **Content Editor** ★21 (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
 
-- **Netlify CMS** (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
+- **Netlify CMS** ★412 (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
-- **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
+- **Federalist** ★100 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
 
 
 ### Commerical / For Pay
