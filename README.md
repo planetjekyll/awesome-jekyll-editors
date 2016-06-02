@@ -31,10 +31,12 @@ A collection of awesome Jekyll editors
 
 - **Netlify CMS** (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
+- **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
+
 
 ### Commerical / For Pay
 
-- **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al  - a static site host with a customizable content management system (CMS), user management, Stripe payments, and an admin GUI. 
+- **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al  - a static site host with a customizable content management system (CMS), user management, Stripe payments, and an admin GUI; pricing plans (developer $10/month, freelancer $39/month, agency $199/month)
 
 - **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - a static site content management system (CMS); pricing plans per user/month (basic $25/agency $75/enterprise	$125)
 
