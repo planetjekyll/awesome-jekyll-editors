@@ -40,13 +40,13 @@ A collection of awesome Jekyll editors
 
 - **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - a static site content management system (CMS); pricing plans per user/month (basic $25/agency $75/enterprise	$125)
 
+- **Siteleaf** (web: [siteleaf.com](http://www.siteleaf.com)) - a visual CMS with markdown and advanced metadata editor, suitable for use with clients and non-technical users; includes full content API (JSON) to access Jekyll data in mobile apps and elsewhere (free for developers, paid plans start at $7/month with unlimited users)
+
 - **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
 
 _Upcoming / Future_
 
 - **Forestry.io** (web: [forestry.io](https://forestry.io))
-
-- **Siteleaf** (web: [v2.siteleaf.com](http://v2.siteleaf.com))
 
 
 ## "Classic" Editors Addons
