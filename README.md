@@ -20,19 +20,21 @@ A collection of awesome Jekyll editors
 
 ### Open Source
 
-- **Prose** ★3 249 (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
+- **Jekyll Admin** ★565 (github: [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- a jekyll plugin offering a classic CMS-style "visual" editor in your browser to write posts and manage jekyll sites
 
-- **Meet Hyde** ★48 (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+- **Prose** ★3 418 (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
 
-- **Utterson** ★141 (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+- **Meet Hyde** ★59 (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
 
-- **Little Jekyll** ★12 (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+- **Utterson** ★153 (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
 
-- **Content Editor** ★21 (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
+- **Little Jekyll** ★23 (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
-- **Netlify CMS** ★412 (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
+- **Content Editor** ★25 (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
 
-- **Federalist** ★100 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
+- **Netlify CMS** ★550 (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
+
+- **Federalist** ★19 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
 
 
 ### Commerical / For Pay
@@ -45,9 +47,10 @@ A collection of awesome Jekyll editors
 
 - **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
 
+- **Forestry.io** (web: [forestry.io](https://forestry.io))
+
 _Upcoming / Future_
 
-- **Forestry.io** (web: [forestry.io](https://forestry.io))
 
 
 ## "Classic" Editors Addons
@@ -69,7 +72,7 @@ _Upcoming / Future_
 
 ## Markdown Editors
 
-See [**Awesome Mardown Editors**](https://github.com/writekit/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+See [**Awesome Mardown Editors**](https://github.com/mundimark/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
 ## Meta
