@@ -45,11 +45,9 @@ A collection of awesome Jekyll editors
 
 - **Siteleaf** (web: [siteleaf.com](http://www.siteleaf.com)) - a visual CMS with markdown and advanced metadata editor, suitable for use with clients and non-technical users; includes full content API (JSON) to access Jekyll data in mobile apps and elsewhere (free for developers, paid plans start at $7/month with unlimited users)
 
+- **Forestry.io** (web: [forestry.io](https://forestry.io)) -  a content management system (CMS) for Jekyll; pricing plans (11+ users $99/month; enterprise ask for quote)
+
 - **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
-
-- **Forestry.io** (web: [forestry.io](https://forestry.io))
-
-_Upcoming / Future_
 
 
 
