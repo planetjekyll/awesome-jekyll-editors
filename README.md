@@ -71,7 +71,7 @@ A collection of awesome Jekyll editors
 
 ## Markdown Editors
 
-See [**Awesome Mardown Editors**](https://github.com/mundimark/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+See [**Awesome Markdown Editors**](https://github.com/mundimark/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
 ## Meta
