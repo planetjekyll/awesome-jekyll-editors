@@ -47,7 +47,7 @@ A collection of awesome Jekyll editors
 
 - **Forestry.io** (web: [forestry.io](https://forestry.io)) -  a content management system (CMS) for Jekyll; pricing plans (11+ users $99/month; enterprise ask for quote)
 
-- **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
+- **TinyPress** (web: [tinypress.co](http://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
 
 
 
