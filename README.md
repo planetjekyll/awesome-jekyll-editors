@@ -67,7 +67,9 @@ A collection of awesome Jekyll editors
 
 - [**vim-jekyll**](https://github.com/parkr/vim-jekyll) -- a vim plugin to generate new posts and run `jekyll build` all without leaving vim.
 
+### Visual Studio Code
 
+- [**jekyll-snippets**](https://marketplace.visualstudio.com/items?itemName=ginfuru.vscode-jekyll-snippets) -- Jekyll snippets for Visual Studio Code.
 
 ## Markdown Editors
 
