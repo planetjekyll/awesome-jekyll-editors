@@ -70,6 +70,7 @@ A collection of awesome Jekyll editors
 ### Visual Studio Code
 
 - [**jekyll-snippets**](https://marketplace.visualstudio.com/items?itemName=ginfuru.vscode-jekyll-snippets) -- Jekyll snippets for Visual Studio Code.
+- [**jekyll-syntax-support**](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax) -- Adds Jekyll _(better liquid + front-matter)_ syntax support for Visual Studio Code.
 
 ## Markdown Editors
 
