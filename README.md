@@ -32,6 +32,8 @@ A collection of awesome Jekyll editors
 
 - **Netlify CMS** ★550 (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
+- **MrHyde** ★57 (play store: [org.faudroids.mrhyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde), github: [FauDroids/MrHyde](https://github.com/FauDroids/MrHyde)) -- an Android app that can add and edit posts, drafts and files that can be previewed
+
 - **Federalist** ★19 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
 
 
