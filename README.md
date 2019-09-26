@@ -53,6 +53,8 @@ discontinued:
 - **TinyPress** (web: [tinypress.co](http://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
   -->
 
+- **Stastic** (web: [stastic.net](https://stastic.net) - a content management system (CMS) for Jekyll, currently in beta; pricing is free for early adopters
+
 
 ## "Classic" Editors Addons
 
