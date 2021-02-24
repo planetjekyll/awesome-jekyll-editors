@@ -41,8 +41,6 @@ discontinued:
 
 ### Commerical / For Pay
 
-- **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al  - a static site host with a customizable content management system (CMS), user management, Stripe payments, and an admin GUI; pricing plans (developer $10/month, freelancer $39/month, agency $199/month)
-
 - **CloudCannon** (web: [cloudcannon.com](http://cloudcannon.com)) by Mike Neumegen et al  - a static site content management system (CMS); pricing plans per user/month (basic $25/agency $75/enterprise	$125)
 
 - **Siteleaf** (web: [siteleaf.com](http://www.siteleaf.com)) - a visual CMS with markdown and advanced metadata editor, suitable for use with clients and non-technical users; includes full content API (JSON) to access Jekyll data in mobile apps and elsewhere (free for developers, paid plans start at $7/month with unlimited users)
