@@ -41,6 +41,8 @@ discontinued:
 
 - **Github Jekyll Blog Editor** ★6 (github: [shinemoon/jekyller](https://github.com/shinemoon/jekyller)) by Claud Xiao --an extension for Chrome Based Browsers ([Chrome ★5](https://chromewebstore.google.com/detail/github-jekyll-blog-editor/lgdhgkhhglmhiacjecigalebiffjklec) / [Edge ★4](https://microsoftedge.microsoft.com/addons/detail/github-jekyll-blog-editor/blogcklanlfjglneidejdabdljnoohlc?hl=en-GB)).To support writing, editing and managing the github page based Jekyll Blog, with Distraction-free or Previewer mode , and also supports multiple editor mode (e.g. Vim/Emacs/Sublime and etc.)
 
+- **JekyllStudio** (github: [tatey/JekyllStudio](https://github.com/tatey/JekyllStudio)) by Tate Johnson -- a fully native macOS app to support writing and editing blog posts with drag and drop images, integrated preview, and automatic file handling.
+
 ### Commerical / For Pay
 
 - **JekyllPad** (web: [jekyllpad.com](https://www.jekyllpad.com)) - Seamless online content editor for Jekyll and GitHub Pages; Integrates with github and helps you crafting Markdown blog posts, managing tags, and categorizing content; start for free
