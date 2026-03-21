@@ -62,11 +62,13 @@ discontinued:
 
 ## "Classic" Editors Addons
 
+<!--
+   note: atom is sunset / gone 
 ### Atom
 
 - [**markdown-writer**](https://atom.io/packages/markdown-writer) -- an Atom package for Jekyll. It can create new posts/drafts, manage tags/categories, insert link/images and add many useful key mappings.
 - [**jekyll-atom**](https://atom.io/packages/jekyll) -- an Atom package for Jekyll. It can create neww/posts/drafts in any folder. Publish Drafts. Run a test server with on save rebuilding for working localy. Commands to open the current files layout, current tags data file and current tags include.
-
+-->
 
 ### Sublime
 
