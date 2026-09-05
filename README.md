@@ -43,6 +43,8 @@ discontinued:
 
 - **JekyllStudio** (github: [tatey/JekyllStudio](https://github.com/tatey/JekyllStudio)) by Tate Johnson -- a fully native macOS app to support writing and editing blog posts with drag and drop images, integrated preview, and automatic file handling.
 
+- **YAMLToolbox** (web: [yamltoolbox.com](https://yamltoolbox.com)) -- Free, browser-based YAML converters, validator & formatter. 100% client-side (no upload, no sign-up). Online tool for editing and validating YAML (incl. front matter).
+
 ### Commerical / For Pay
 
 - **JekyllPad** (web: [jekyllpad.com](https://www.jekyllpad.com)) - Seamless online content editor for Jekyll and GitHub Pages; Integrates with github and helps you crafting Markdown blog posts, managing tags, and categorizing content; start for free
