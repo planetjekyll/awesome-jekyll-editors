@@ -45,6 +45,8 @@ discontinued:
 
 - **YAMLToolbox** (web: [yamltoolbox.com](https://yamltoolbox.com)) -- Free, browser-based YAML converters, validator & formatter. 100% client-side (no upload, no sign-up). Online tool for editing and validating YAML (incl. front matter).
 
+- **Hiyd Chrome Extension** (github: [thechelsuk/ext-chrome-hiyd](https://github.com/thechelsuk/ext-chrome-hiyd)) by Mat Benfield -- a Chromium browser extension that captures a quote and its link from any web page into a Markdown file with Jekyll front matter, ready for a link post
+
 ### Commerical / For Pay
 
 - **JekyllPad** (web: [jekyllpad.com](https://www.jekyllpad.com)) - Seamless online content editor for Jekyll and GitHub Pages; Integrates with github and helps you crafting Markdown blog posts, managing tags, and categorizing content; start for free
@@ -60,6 +62,8 @@ discontinued:
   -->
 
 - **Stastic** (web: [stastic.net](https://stastic.net) - a content management system (CMS) for Jekyll, currently in beta; pricing is free for early adopters
+
+- **Hiyd** (web: [hiyd.uk](https://hiyd.uk), app store: [Hiyd: Markdown Notes to GitHub](https://apps.apple.com/app/id6746853559)) by Mat Benfield - an iPhone and iPad Markdown editor for Jekyll and GitHub Pages blogs; capture an idea, add front matter and publish straight to your GitHub repo; free
 
 
 ## "Classic" Editors Addons
